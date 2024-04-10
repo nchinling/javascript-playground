@@ -7,3 +7,10 @@ A repository to experiment with Javascript ideas and create simple projects.
 
 [C] variables - on assigning variables to const. ('const' - value doesn't change during implementation of code. 'let' - values may change during run )
 
+[D] text-change - text content on button and paragraph changes on click
+
+[E] else-if - drop down list of options which displays different texts
+
+
+
+
